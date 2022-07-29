@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "analyze": "cem analyze"
+  },
+  "devDependencies": {
+    "@custom-elements-manifest/analyzer": "^0.6.3",
+    "cem-plugin-react-wrapper": "^1.0.0-beta.7"
+  }
+}
